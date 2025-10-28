@@ -32,5 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshusaini105&show_icons=true&locale=en" alt="priyanshusaini105" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusaini105&" alt="priyanshusaini105" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusaini105&" alt="priyanshusaini105" /></p> -->
+
+[![Priyanshu Saini](https://streak-stats.demolab.com?user=priyanshusaini105&hide_border=true)](https://git.io/streak-stats)
 
