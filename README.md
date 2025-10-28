@@ -1,27 +1,18 @@
-[<h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
-<h3 align="center">Crafting Seamless Experiences with React, React Native, and TypeScript | Metaverse Developer | Harnessing the Power of Firebase for Next-Level Applications</h3>
+<h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
+<h3 align="center">Full-Stack & React Native Developer | Building Scalable, High-Performance Web and Mobile Apps with React, TypeScript & DevOps</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusaini105&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusaini105" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshusaini105" alt="priyanshusaini105" /></a> </p>
 
-- 🔭 I’m currently working on [Fylo File Sharing App](https://github.com/priyanshusaini105/fylo)
+- 👨‍💻 Building **Fillr**, an AI-powered Chrome extension that automates job applications  
+- 👯 Open to collaborating on **full-stack and React Native projects**  
+- 🌍 Explore my work at [priyanshusaini.co](https://www.priyanshusaini.co)  
+- 📝 I write about development and product building on [Medium](https://medium.com/@priyanshusaininew)  
+- 💬 Reach out for **Web, Mobile, and DevOps projects**  
+- 📫 Contact: **priyanshusaininew@gmail.com**
 
-- 🌱 I’m currently learning **Svelte, Unity and C#**
-
-- 👯 I’m looking to collaborate on [AKGEC ERP App](https://github.com/priyanshusaini105/AKGEC)
-
-- 👨‍💻 All of my projects are available at [https://www.priyanshusaini.co/](https://www.priyanshusaini.co/)
-
-- 📝 I regularly write articles on [https://medium.com/@priyanshusaininew](https://medium.com/@priyanshusaininew)
-
-- 💬 Reach me for **Websites and App development**
-
-- 📫 How to reach me **priyanshusaininew@gmail.com**
-
-- 📄 Know about my experiences [https://priyanshusaini.vercel.app/Priyaanshu_saini_resume.pdf](https://priyanshusaini.vercel.app/Priyaanshu_saini_resume.pdf)
-
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshusaini105&show_icons=true&locale=en" alt="priyanshusaini105" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusaini105&" alt="priyanshusaini105" /></p>
-](https://github.com/priyanshusaini105/priyanshusaini105/blob/main/README.md?plain=1)
+
