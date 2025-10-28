@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
+[<h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
 <h3 align="center">Crafting Seamless Experiences with React, React Native, and TypeScript | Metaverse Developer | Harnessing the Power of Firebase for Next-Level Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusaini105&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusaini105" /> </p>
@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshusaini105&show_icons=true&locale=en" alt="priyanshusaini105" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusaini105&" alt="priyanshusaini105" /></p>
+](https://github.com/priyanshusaini105/priyanshusaini105/blob/main/README.md?plain=1)
