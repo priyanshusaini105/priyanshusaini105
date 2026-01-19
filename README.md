@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
-<h3 align="center">Building full-stack web apps and AI-powered solutions | Contributor @calcom @vercel | Passionate about solving real-world problems through code</h3>
+<h3 align="center">React Native & Full-Stack Engineer| Building AI-powered solutions | Contributor @calcom @vercel | Passionate about solving real-world problems through code</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusaini105&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusaini105" /> </p>
